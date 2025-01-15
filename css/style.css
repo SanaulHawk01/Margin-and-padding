@@ -1,0 +1,31 @@
+.box{
+	border: 1px solid black;
+}
+
+.margin-trlb{
+	margin-top: 100px;
+	margin-right: 150px;
+	margin-left: 80px;
+	margin-bottom: 100px;
+}
+
+.margin{
+	margin: 100px;
+}
+
+.lightblue{
+	background-color: lightblue;
+}
+
+.lightgray{
+	background-color: lightgray;
+}
+
+.box2{
+	dorder: 1px solid black;	
+}
+
+.padding{
+	padding: 70px;
+	background-color: lightblue;
+}
